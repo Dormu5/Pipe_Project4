@@ -1,0 +1,1 @@
+Metoda z uzyciem C jest duzo szybsza co powoduje znalezienie duzo wiekszej ilosci zbiorow liczbowych.
